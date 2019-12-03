@@ -55,5 +55,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'dotenv-rails', '~> 2.7', '>= 2.7.5'
 gem 'carrierwave-aws', '~> 1.4'
+gem 'httparty', '~> 0.17.1'
 
 ruby "2.6.1"
