@@ -10,6 +10,7 @@ class TemperaturesController < ApplicationController
   # GET /temperatures/1
   # GET /temperatures/1.json
   def show
+    render json: @temperature
   end
 
   # GET /temperatures/new
