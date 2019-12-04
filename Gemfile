@@ -56,5 +56,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'dotenv-rails', '~> 2.7', '>= 2.7.5'
 gem 'carrierwave-aws', '~> 1.4'
 gem 'httparty', '~> 0.17.1'
+gem 'active_model_serializers', '~> 0.10.10'
 
 ruby "2.6.1"
